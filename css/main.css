@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#board {
+    background-color: rgb(50, 174, 205);
+    height: 100vh;
+    position: relative;
+}
+
+#player {
+    background-color: orange;
+    position: absolute;
+}
+
+.obstacle {
+    background-color: rgb(242, 12, 12);
+    position: absolute;
+    
+}
